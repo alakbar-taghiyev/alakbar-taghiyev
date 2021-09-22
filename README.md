@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning html, css, javascript, reactnative 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects 
 
 - 💬 Ask me about anything, I am happy to help :blush: 
   
